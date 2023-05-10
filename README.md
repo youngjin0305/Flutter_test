@@ -18,9 +18,20 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 2023 제1회 SW개발 공모전 : 피우다 프로젝트
 
-![image](https://github.com/youngjin0305/PIUDA_project_2023_TCP/assets/126306228/7bf199e6-8892-43b3-84cf-8641b6b19721)
+<img width="758" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/ecd87adc-25c7-4aab-97b0-bb7ace7d5b2d">
+
+<img width="491" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/ec2a04c4-af54-4828-9a50-c69ca91bef3f">    
+
+#### 심사 기준
+
+<img width="496" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/9f161a99-6c8b-403c-a406-01e2880f9635">
+
+#### 개발 포기
+
+<img width="500" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/ef5226fe-f5cb-422c-9842-7e5c1a306617">
+
 
 ## 배리어프리 앱 개발 콘테스트
 
-![image](https://github.com/youngjin0305/PIUDA_project_2023_TCP/assets/126306228/8b852eee-8081-4d44-b683-34ab6b5bf0de)
+<img width="626" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/c6061a22-2eca-4967-a708-e2b51f8f8407">
 
