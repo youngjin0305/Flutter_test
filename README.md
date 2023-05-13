@@ -30,8 +30,3 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="500" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/ef5226fe-f5cb-422c-9842-7e5c1a306617">
 
-
-## 배리어프리 앱 개발 콘테스트
-
-<img width="626" alt="image" src="https://github.com/youngjin0305/BFproject/assets/126306228/c6061a22-2eca-4967-a708-e2b51f8f8407">
-
